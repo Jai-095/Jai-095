@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech CSE (AI) student at PSIT,Kanpur  <br>💻 Passionate about Software Development, AI, and Full-Stack Web Development  <br>🌱 Currently learning Data Structures & Algorithms, System Design, and Backend Development  <br>🛠️ Building real-world projects with Java, PHP, Python, JavaScript, Node.js, and MySQL  <br>🤝 Always eager to learn new technologies and collaborate on open-source projects  <br>🎯 Goal: Secure a Software Development Internship and grow into a skilled Software Engineer<br>
+🎓 B.Tech CSE (AI) student at PSIT, Kanpur  <br>💻 Passionate about Software Development, AI, and Full-Stack Web Development  <br>🌱 Currently learning Data Structures & Algorithms, System Design, and Backend Development  <br>🛠️ Building real-world projects with Java, PHP, Python, JavaScript, Node.js, and MySQL  <br>🤝 Always eager to learn new technologies and collaborate on open-source projects  <br>🎯 Goal: Secure a Software Development Internship and grow into a skilled Software Engineer<br>
 
 
 ## 🌐 Socials:
